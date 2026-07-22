@@ -4,204 +4,128 @@
 
 ### Freelance Software Engineer • Full Stack Developer • Independent Entrepreneur
 
-Building scalable software, modern web applications, cloud infrastructure, automation systems and cybersecurity-focused solutions.
+Building scalable software, modern web applications, cloud infrastructure, automation systems and security-focused solutions.
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=dupewon&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/followers/dupewon?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/github/stars/dupewon?style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=dupewon&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dupewon?style=for-the-badge&logo=github&label=Followers" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a **Freelance Software Engineer** and **Independent Entrepreneur** passionate about building modern software products from idea to production.
+I'm a **Freelance Software Engineer** and **Independent Entrepreneur** passionate about designing, developing and deploying modern software solutions.
 
-My experience spans across **Full Stack Development**, **Backend Engineering**, **Cloud Infrastructure**, **DevOps**, **Automation**, **UI/UX**, and **Cybersecurity-oriented Development**.
+My work focuses on building reliable, scalable and production-ready applications across web technologies, backend systems, cloud infrastructure, DevOps and intelligent automation.
 
-I enjoy creating fast, scalable and production-ready systems for startups, businesses and agencies.
-
----
-
-# 💼 Current Focus
-
-- 🌐 Full Stack Web Development
-- ⚙️ Backend Architecture
-- ☁️ Cloud Infrastructure
-- 🐳 DevOps Engineering
-- 🤖 AI Automation
-- 🔗 REST API Development
-- 🎨 UI / UX Engineering
-- 🔒 Cybersecurity Research
-- 🚀 Performance Optimization
+I enjoy transforming ideas into high-quality digital products with clean architecture, strong performance and long-term maintainability.
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Areas of Expertise
 
-<table>
-
-<tr>
-
-<th>Languages</th>
-<th>Frontend</th>
-<th>Backend</th>
-
-</tr>
-
-<tr>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=js,ts,php,go,rust,python,bash"/>
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,html,css,sass"/>
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<table>
-
-<tr>
-
-<th>Database</th>
-<th>DevOps</th>
-<th>Cloud</th>
-
-</tr>
-
-<tr>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git"/>
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,firebase,cloudflare"/>
-
-</td>
-
-</tr>
-
-</table>
-
-<table>
-
-<tr>
-
-<th>Tools</th>
-<th>Design</th>
-<th>Automation</th>
-
-</tr>
-
-<tr>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman"/>
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=figma,ps"/>
-
-</td>
-
-<td>
-
-n8n • GitHub Actions • REST APIs
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🚀 What I Build
-
-- Corporate Websites
-- SaaS Platforms
-- Full Stack Applications
-- Admin Panels
-- Landing Pages
-- REST APIs
-- AI Integrations
-- Automation Systems
+- Full Stack Web Development
+- Backend Architecture
+- REST API Development
 - Cloud Infrastructure
-- Server Management
-- Database Architecture
+- DevOps Engineering
+- Linux Server Administration
+- AI Automation
+- UI / UX Engineering
+- Database Design
 - Performance Optimization
-- Security Improvements
+- Security-Oriented Development
 
 ---
 
-# 🏢 Projects
+# 💻 Technology Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,php,go,rust,python,bash"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,html,css,sass"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,aws,gcp,azure,cloudflare"/>
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman"/>
+</p>
+
+### Automation
+
+<p>
+<img height="48" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n"/>
+&nbsp;&nbsp;
+<img height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/>
+&nbsp;&nbsp;
+<img height="48" src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="OpenAPI"/>
+</p>
+
+---
+
+# 💼 What I Build
+
+- Enterprise Web Applications
+- SaaS Platforms
+- Custom Software Solutions
+- Backend APIs
+- Corporate Websites
+- Admin Dashboards
+- Landing Pages
+- AI Integrations
+- Automation Workflows
+- Cloud Infrastructure
+- DevOps Pipelines
+- Database Architecture
+
+---
+
+# 🏢 Featured Work
 
 ## Coardian
 
-Digital Agency focused on
+Digital Agency providing end-to-end software solutions.
 
 - Full Stack Development
+- Custom Software
 - Mobile Applications
+- UI / UX Design
 - AI Integrations
-- UI / UX
-- Corporate Solutions
+- Backend Systems
+- Cloud Infrastructure
+- Automation Solutions
 
 ---
 
-## CODOTT
-
-Technology & Engineering
-
-- Software Solutions
-- Engineering Projects
-- Embedded Systems
-- Industrial Technologies
-
----
-
-## Nodefex
-
-Infrastructure & Networking
-
-- Anti-DDoS Infrastructure
-- Cloud Technologies
-- Hosting Solutions
-- Network Services
-- Linux Administration
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -225,7 +149,7 @@ Infrastructure & Networking
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dupewon&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dupewon&theme=github-dark&hide_border=true"/>
 
 </div>
 
@@ -235,36 +159,38 @@ Infrastructure & Networking
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dupewon&theme=darkhub&margin-w=10&margin-h=10&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dupewon&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
 ---
 
-# ⚡ Currently Learning
+# 🌱 Currently Exploring
 
-- Distributed Systems
 - Cloud Native Applications
+- Distributed Systems
 - Infrastructure Automation
 - AI Agents
-- Scalable Backend Systems
+- Modern DevOps Practices
+- Scalable Backend Architectures
 
 ---
 
-# 🤝 Open For
+# 🤝 Available For
 
-- Freelance Projects
+- Freelance Development
 - Startup Collaborations
-- Open Source
 - Technical Consulting
-- Full Stack Development
+- Full Stack Projects
+- Backend Development
+- DevOps & Infrastructure
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+### Thanks for stopping by! 👋
 
-*"Building software that is clean, scalable and reliable."*
+*"Build with quality. Scale with confidence."*
 
 </div>
