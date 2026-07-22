@@ -40,7 +40,7 @@ I'm a freelance software engineer and independent entrepreneur focused on buildi
 
 | Mobile & Desktop | Automation | API Development | Security |
 |------------------|------------|-----------------|----------|
-| <img src="https://skillicons.dev/icons?i=flutter,electron"/> | <img height="42" src="https://cdn.simpleicons.org/n8n/EA4B71"/> <img src="https://skillicons.dev/icons?i=githubactions"/> | REST APIs • OpenAPI • GraphQL | Reverse Engineering • Binary Analysis • Secure Development |
+| <img src="https://skillicons.dev/icons?i=flutter,electron"/> | <img height="42" src="https://cdn.simpleicons.org/n8n/EA4B71"/> <img src="https://skillicons.dev/icons?i=githubactions"/>
 
 ---
 
@@ -80,8 +80,7 @@ I'm a freelance software engineer and independent entrepreneur focused on buildi
 # 🤝 Connect
 
 - GitHub: https://github.com/dupewon
-- Discord: https://discord.gg/yourinvite
-- TeamSpeak: https://teamspeak.com
+- Discord: https://discord.gg/dupe
 
 ---
 
