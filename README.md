@@ -38,8 +38,8 @@ I'm a freelance software engineer and independent entrepreneur focused on buildi
 |-------------------------|--------------|-----------------|--------|
 | <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,azure,gcp,cloudflare"/> | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman"/> | <img src="https://skillicons.dev/icons?i=git,github,gitlab"/> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd"/> |
 
-| Mobile & Desktop | Automation | API Development | Security |
-|------------------|------------|-----------------|----------|
+| Mobile & Desktop | Automation |
+|------------------|------------|
 | <img src="https://skillicons.dev/icons?i=flutter,electron"/> | <img height="42" src="https://cdn.simpleicons.org/n8n/EA4B71"/> <img src="https://skillicons.dev/icons?i=githubactions"/>
 
 ---
