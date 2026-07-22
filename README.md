@@ -1,93 +1,46 @@
-<div align="center">
-
 # Hello, I'm Dupewon 👋
 
 ### Freelance Software Engineer • Full Stack Developer • Independent Entrepreneur
 
-Building scalable software, modern web applications, cloud infrastructure, automation systems and security-focused solutions.
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dupewon&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/dupewon?style=for-the-badge&logo=github&label=Followers" />
-</p>
-
-</div>
+Building modern software, cloud infrastructure, automation systems and security-focused solutions.
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Freelance Software Engineer** and **Independent Entrepreneur** passionate about designing, developing and deploying modern software solutions.
-
-My work focuses on building reliable, scalable and production-ready applications across web technologies, backend systems, cloud infrastructure, DevOps and intelligent automation.
-
-I enjoy transforming ideas into high-quality digital products with clean architecture, strong performance and long-term maintainability.
+I'm a freelance software engineer and independent entrepreneur focused on building scalable software, backend systems, automation workflows, UI/UX, cloud infrastructure and open-source projects.
 
 ---
 
 # 🚀 Areas of Expertise
 
-- Full Stack Web Development
-- Backend Architecture
+- Full Stack Development
+- Backend Engineering
 - REST API Development
 - Cloud Infrastructure
 - DevOps Engineering
-- Linux Server Administration
+- Linux Administration
 - AI Automation
-- UI / UX Engineering
+- Reverse Engineering & Application Security Research
+- UI / UX Design
 - Database Design
 - Performance Optimization
-- Security-Oriented Development
 
 ---
 
-# 💻 Technology Stack
+# 💻 Tech Stack
 
-### Languages
+| Languages | Frontend & UI | Backend, APIs & Databases |
+|------------|---------------|---------------------------|
+| <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,rust,python,php,java,kotlin,swift,js,ts,bash,lua,dart"/> | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,tailwind,bootstrap,html,css,sass"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django,dotnet,mysql,postgres,mongodb,redis,sqlite"/> |
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,php,go,rust,python,bash"/>
-</p>
+| DevOps & Infrastructure | Tools & IDEs | Version Control | Design |
+|-------------------------|--------------|-----------------|--------|
+| <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,aws,azure,gcp,cloudflare"/> | <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,postman"/> | <img src="https://skillicons.dev/icons?i=git,github,gitlab"/> | <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd"/> |
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite,tailwind,bootstrap,html,css,sass"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,githubactions,aws,gcp,azure,cloudflare"/>
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,postman"/>
-</p>
-
-### Automation
-
-<p>
-<img height="48" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n"/>
-&nbsp;&nbsp;
-<img height="48" src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"/>
-&nbsp;&nbsp;
-<img height="48" src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="OpenAPI"/>
-</p>
+| Mobile & Desktop | Automation | API Development | Security |
+|------------------|------------|-----------------|----------|
+| <img src="https://skillicons.dev/icons?i=flutter,electron"/> | <img height="42" src="https://cdn.simpleicons.org/n8n/EA4B71"/> <img src="https://skillicons.dev/icons?i=githubactions"/> | REST APIs • OpenAPI • GraphQL | Reverse Engineering • Binary Analysis • Secure Development |
 
 ---
 
@@ -95,102 +48,41 @@ I enjoy transforming ideas into high-quality digital products with clean archite
 
 - Enterprise Web Applications
 - SaaS Platforms
-- Custom Software Solutions
 - Backend APIs
-- Corporate Websites
-- Admin Dashboards
-- Landing Pages
 - AI Integrations
-- Automation Workflows
+- Automation Systems
 - Cloud Infrastructure
 - DevOps Pipelines
-- Database Architecture
-
----
-
-# 🏢 Featured Work
-
-## Coardian
-
-Digital Agency providing end-to-end software solutions.
-
-- Full Stack Development
-- Custom Software
-- Mobile Applications
-- UI / UX Design
-- AI Integrations
-- Backend Systems
-- Cloud Infrastructure
-- Automation Solutions
+- Admin Panels
+- Corporate Websites
+- Open Source Libraries
+- Developer Tools
 
 ---
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=dupewon&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dupewon&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dupewon&theme=github-dark&hide_border=true"/>
+</p>
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dupewon&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dupewon&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
+</p>
 
 ---
 
-# 🌱 Currently Exploring
+# 🤝 Connect
 
-- Cloud Native Applications
-- Distributed Systems
-- Infrastructure Automation
-- AI Agents
-- Modern DevOps Practices
-- Scalable Backend Architectures
+- GitHub: https://github.com/dupewon
+- Discord: https://discord.gg/yourinvite
+- TeamSpeak: https://teamspeak.com
 
 ---
 
-# 🤝 Available For
-
-- Freelance Development
-- Startup Collaborations
-- Technical Consulting
-- Full Stack Projects
-- Backend Development
-- DevOps & Infrastructure
-
----
-
-<div align="center">
-
-### Thanks for stopping by! 👋
-
-*"Build with quality. Scale with confidence."*
-
-</div>
+> Building software that is clean, scalable and reliable.
